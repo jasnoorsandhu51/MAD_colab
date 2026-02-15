@@ -1,24 +1,22 @@
-<<<<<<< HEAD
 # MAD_colab
 
-Team Members: 
-Jasnoor Sandhu
-Sattwik Bhattacharjee
-=======
-# cw1_counter_app
+Team Members: Jasnoor Sandhu, Sattwik Bhattacharjee
 
-A new Flutter project.
+## Project: CW1 Counter & Image Toggle App
 
-## Getting Started
+This is a Flutter project for the Mobile App Development coursework (CW #01). It features:
+
+- Counter with multi-step increment/decrement
+- Toggleable images with smooth animations
+- Light/Dark theme switching
+- Persistent state using SharedPreferences
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Helpful resources:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> ebe2b80 (Initial commit - CW1 Counter & Image Toggle App)
+- [Flutter Codelab](https://flutter.dev/docs/get-started/codelab)
+- [Flutter Cookbook](https://flutter.dev/docs/cookbook)
+- [Flutter Documentation](https://flutter.dev/docs)
